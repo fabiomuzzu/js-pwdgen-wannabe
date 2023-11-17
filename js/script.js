@@ -16,3 +16,4 @@ console.log(password)
 
 // Variabile per display password in html
 document.getElementById('password').innerHTML = password
+console.log(document.getElementById('password').innerHTML)
